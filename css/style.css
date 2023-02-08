@@ -18,7 +18,7 @@ body {
   color: whitesmoke;
 }
 
-html{
+html {
   scroll-behavior: smooth;
 }
 
@@ -124,7 +124,7 @@ html{
   line-height: 3.5rem;
 }
 
-.hero .content h1 span{
+.hero .content h1 span {
   color: var(--primary);
 }
 
@@ -302,7 +302,7 @@ html{
 
 /* Footer */
 
-.footer{
+.footer {
   text-align: center;
   background-color: var(--primary);
   margin-top: 20rem;
@@ -310,18 +310,19 @@ html{
   color: #010101;
 }
 
-.footer .social{
+.footer .social {
   padding: 1.5rem;
 }
-.footer .social .ig, .twitter{
+.footer .social .ig,
+.twitter {
   margin-right: 1.5rem;
 }
 
-.footer p{
+.footer p {
   font-weight: 300;
 }
 
-.footer p span{
+.footer p span {
   color: #eee;
 }
 
